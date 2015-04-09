@@ -15,6 +15,9 @@ import javax.swing.JOptionPane;
 
 
 public class Conectadb{
+    
+    
+    //Aqui estuvo daniel
 
     
     //nombre de la base de datos
